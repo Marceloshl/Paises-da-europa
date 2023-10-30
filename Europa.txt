@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lugares Turísticos da Europa</title>
+</head>
+<body>
+  <h1>Lugares Turísticos da Europa</h1>
+
+  <h2>Paris, França</h2>
+  <p>Paris é conhecida como a cidade do amor, famosa pela Torre Eiffel, Museu do Louvre e pela charmosa Champs-Élysées.</p>
+
+  <h2>Roma, Itália</h2>
+  <p>Roma é uma cidade repleta de história e cultura, com destaque para o Coliseu, o Vaticano e a Fontana di Trevi.</p>
+
+  <h2>Barcelona, Espanha</h2>
+  <p>Barcelona é uma cidade vibrante, com belas praias, a arquitetura única de Gaudí e o famoso estádio Camp Nou.</p>
+
+  <h2>Amsterdã, Holanda</h2>
+  <p>Amsterdã é conhecida por seus canais encantadores, museus de arte renomados e pela atmosfera descontraída.</p>
+
+  <h2>Santorini, Grécia</h2>
+  <p>Santorini é uma ilha paradisíaca, com suas casinhas brancas, praias de areia vulcânica e vistas deslumbrantes do mar.</p>
+</body>
+</html>
+
